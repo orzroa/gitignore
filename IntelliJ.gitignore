@@ -1,0 +1,9 @@
+### IDEA template
+*.iml
+.idea/
+
+### Maven
+target/
+
+### Mac
+.DS_Store
